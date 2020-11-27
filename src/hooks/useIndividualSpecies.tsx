@@ -1,4 +1,3 @@
-import React from "react";
 import { useGetIndividualItem } from "../api-hooks/useGetIndividualItem";
 import { useGetItemList } from "../api-hooks/useGetItemList";
 import { Screens } from "../enums";
